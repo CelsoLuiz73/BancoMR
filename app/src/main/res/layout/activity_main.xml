@@ -64,7 +64,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txt_saldo"/>
 
     <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/txt_transferencia"
+        android:id="@+id/txt_poupanca"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Transferência"

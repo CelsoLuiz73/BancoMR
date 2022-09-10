@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BancoMR">
         <activity
+            android:name=".Poupanca"
+            android:exported="true" />
+        <activity
+            android:name=".Transferencia"
+            android:exported="true" />
+        <activity
+            android:name=".Faturas"
+            android:exported="true" />
+        <activity
+            android:name=".Saldo"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
